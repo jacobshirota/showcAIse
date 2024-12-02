@@ -1,12 +1,12 @@
-Write a unique and interactive portfolio website for a Computer Scientist named Jacob Shirota based in Anaheim, CA.
+Come up with a creative, unique, and interactive portfolio website for a Computer Scientist named Jacob Shirota based in Anaheim, CA. Make the site tech-themed.
 Jacob has interests in cybersecurity, data sciences, and software engineering. 
-Jacob is set to complete his Bachelor's Degree in Computer Science from Biola University, with minors in Statistics and Bible+Theology, in December of 2024.
+Jacob is set to complete his Bachelor's Degree in Computer Science from Biola University, with minors in Statistics and Bible and Theology, in December of 2024.
 Projects that Jacob has been a part of include the following: 
-    Graze Save Survive, a rogue-lite video game in which a cow escapes wizard farmers (include a link to the /grazesavesurvive page and the preview image stored at /static/profile.png)
-    Church Integration Inventory, completed for the Talbot Center for Faith, Work, and Economics, in which Jacob developed a system used to collect data from pastors which automatically generates a report of actionable insights for their church (include a preview image stored at /static/profile.png)
-    showcAIse, an AI-powered profile website generator (include a link to the /showcAIse page and the preview image stored at /static/profile.png)
-Jacob is also the leader of the National Cyber League team at Biola University and recently led the team to an all-time-best finish of 61st place, with a personal best finish within the top 100 participants (include a link to the /ncl page and the preview image stored at /static/ncl.png)
-Include a headshot of him located at /static/profile.png.
-Include a link to his resume located at /static/resume.pdf.
-Include links to his GitHub (https://github.com/jacob-shirota) and LinkedIn (https://linkedin.com/in/jacob-shirota)
-Expand on every point in-detail so that no single section looks sparse.
+    Graze Save Survive, a rogue-lite video game in which a cow escapes wizard farmers (include a link to the /gss page and the preview image stored at /images/gss.png size 1600x881). Team project.
+    Church Integration Inventory, completed for the Talbot Center for Faith, Work, and Economics, in which Jacob developed a system used to collect data from pastors which automatically generates a report of actionable insights for their church (include a link to /fwe and include preview images stored at /images/fwe1.png size 1272x792 and /images/fwe2.png size 838x590). Team project.
+    showcAIse, an AI-powered profile website generator (include a link to the /showcaise page and the preview image stored at /images/profile.png).
+Jacob is also the leader of the National Cyber League team at Biola University and recently led the team to an all-time-best finish of 61st place, with a personal best finish within the top 100 participants (include a link to the /ncl page and the preview image stored at /images/ncl.png size 924x972)
+Include a headshot of him located at /images/profile.png.
+Include a link to his resume located at /resume.pdf.
+Include links to his GitHub (https://github.com/jacobshirota) and LinkedIn (https://linkedin.com/in/jacob-shirota) in a prominent location.
+Expand on every point in-detail so that no single section looks sparse. Write in the first person perspective as Jacob Shirota. Use a professional tone.
