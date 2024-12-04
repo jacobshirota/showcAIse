@@ -1,0 +1,8 @@
+Create a single web-page as part of an interactive portfolio website for a Computer Scientist named Jacob Shirota.
+Expand on every point in-detail so that no single section looks sparse. Write in the first person perspective as Jacob Shirota. Use a professional tone.
+Include a link to return back to the Home page "/".
+This page is for a project Jacob worked on: the Church Integration Inventory for the Talbot Center for Faith, Work, and Economics.
+Jacob worked as a leader of a six-man team within the Biola Quantitative Consulting Center (link to biola.edu/qcc).
+The largest of his contributions was as the developer of a system which collected data from pastors and church congregants about their preparedness to impact the workplace for Jesus Christ, analyzed it, and automatically generated a report containing insights on key indicators of their church's performance. This system was written primarily in R, with some supplemental JavaScript. (Images of this system are at /images/fwe1.png and /images/fwe2.png)
+Jacob also engineered a prototype of this app hosted using AWS, which was demonstrated live to a cohort of pastors in April 2024. Data from this live demonstration was then used for factor analysis to improve the Inventory questions to provide more accurate insights (use image at /images/fwe3.png)
+Jacob's work on this project ended with a technical report recommending how to implement the Inventory as a web application, including recommended architecture, interfaces and components.
