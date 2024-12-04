@@ -76,6 +76,12 @@
                 targetDiv.innerHTML = e.data;
                 eventSource.close();
             }
+            eventSource.onerror = (err) => {
+                targetDiv.innerHTML = "<p>OpenAI Error. Trying again...</p>"
+                setTimeout(function() {
+                    location.reload();
+                }, 2000);
+            }
         }
     </script>
 </head>
