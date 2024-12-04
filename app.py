@@ -44,9 +44,11 @@ def ai(page="index"):
 
     return Response(eventStream(), mimetype='text/event-stream')
 
-
-
-
 @app.route("/prompts/<page>.prompt")
 def display_prompt(page):
     return send_from_directory('prompts', f'{page}.prompt', mimetype="text/plain")
+
+
+@app.route("/showcaise")
+def showcaise():
+    return render_template("showcaise.html")
